@@ -61,7 +61,7 @@ barchartGC(~infected + treatment,data=Females, type="percent")
 
 ```
 
-The bar graph shows that the vaccine is more effective in women who contracted covid19 compared to women who received the placebo.              
+The bar graph shows that the vaccine is more effective in women who contracted covid19 compared to women who received placebo.              
 
 
 ##Numerical Results    
