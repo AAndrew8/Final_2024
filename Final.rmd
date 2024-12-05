@@ -168,7 +168,7 @@ The p-value from the chi-squared test is 0.0000000001414 which is less than 0.05
 # Overall Results and Conclusions       
 
 ##Males     
-From the date gathered we can conclude that the vaccine does exhibit effectiveness in preventing covid19 in males. The numerical table shows that 26.20% men contracted covid19 and received the vaccine compared to men who received the placebo which was 73.80%. The p-value from the chi-squared was 0.00000000000000022 which is less than 0.05 therefore we reject the null hypothesis. The odds of the vaccine being effective in men is about a 2.8 chance, so we can assume that the vaccine will be effective in preventing covid19 in males.     
+From the data gathered we can conclude that the vaccine does exhibit effectiveness in preventing covid19 in males. The numerical table shows that 26.20% men contracted covid19 and received the vaccine compared to men who received the placebo which was 73.80%. The p-value from the chi-squared was 0.00000000000000022 which is less than 0.05 therefore we reject the null hypothesis. The odds of the vaccine being effective in men is about a 2.8 chance, so we can assume that the vaccine will be effective in preventing covid19 in males.     
 
  
 ##Females      
